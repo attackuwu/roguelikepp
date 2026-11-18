@@ -1,3 +1,6 @@
+/* Часть проекта Roguelike++ (https://github.com/attackuwu/roguelikepp) */
+/* Создан attackuwu под лицензией MIT */
+
 #include <iostream>
 #include <string>
 #include <vector>
