@@ -1,6 +1,6 @@
 # 🗡️ Roguelike++
 
-![Version](https://img.shields.io/badge/version-v0.01--alpha-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-v0.011--alpha-orange?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-3.20%2B-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/attackuwu/roguelikepp?style=for-the-badge&color=success)

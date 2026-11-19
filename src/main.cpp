@@ -1,6 +1,6 @@
 /* Часть проекта Roguelike++ (https://github.com/attackuwu/roguelikepp) */
 /* Создан attackuwu под лицензией MIT */
-
+/* Roguelike++ 0.011 */
 #include <iostream>
 #include <string>
 #include <vector>
@@ -199,7 +199,7 @@ int main() {
             } else {
                 typewrite("Вы отступаете назад. Фигура лишь усмехается: 'Страх убивает быстрее клинка.'");
             }
-            
+
             break;
         }
         //case 2:
