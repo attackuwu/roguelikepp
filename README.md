@@ -26,4 +26,4 @@ cmake -B build && cmake --build build # не обязательно
 ```
 
 ## 👨‍🦽‍➡️ Обычный запуск:
-- Заходите на **[Github Release](https://github.com/attackuwu/roguelikepp/releases)**, скачивай бинарник и играй!
+- Заходите на **[Github Release](https://github.com/attackuwu/roguelikepp/releases)**, скачивай бинарник и играй! (обязательно надо открывать в терминале)
